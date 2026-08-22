@@ -1,0 +1,1 @@
+The placeholder SVGs were removed. Upload the real h-01.webp through h-19.webp and h-logo.webp from the provided package into this folder.
