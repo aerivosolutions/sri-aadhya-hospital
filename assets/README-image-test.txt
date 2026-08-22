@@ -1,0 +1,1 @@
+This repository contains the real hospital gallery asset. The binary asset replacement is pending.
