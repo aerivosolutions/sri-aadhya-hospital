@@ -1,0 +1,1 @@
+Placeholder SVG assets removed. Real WebP asset upload is ready locally.
